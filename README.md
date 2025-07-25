@@ -1,0 +1,2 @@
+# GameDB-Lynx
+Atari Lynx
